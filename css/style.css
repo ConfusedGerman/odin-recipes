@@ -13,6 +13,11 @@ body {
     background-color: black;
 }
 
+.unorderd_list,
+.link_style {
+    color: whitesmoke;
+}
+
 #flammenkuchen_image {
     height: auto;
     width: 250px;
