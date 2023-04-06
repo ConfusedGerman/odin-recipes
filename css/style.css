@@ -18,7 +18,7 @@ body {
     color: whitesmoke;
 }
 
-#flammenkuchen_image {
+.food_image {
     height: auto;
-    width: 250px;
+    width: 300px;
 }
