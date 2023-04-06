@@ -5,6 +5,10 @@ h2 {
     color: darkgray;
 }
 
+div {
+    color:lightslategray;
+}
+
 #flammenkuchen_image {
     height: auto;
     width: 250px;
