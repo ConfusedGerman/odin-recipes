@@ -9,6 +9,10 @@ div {
     color:lightslategray;
 }
 
+body {
+    background-color: black;
+}
+
 #flammenkuchen_image {
     height: auto;
     width: 250px;
