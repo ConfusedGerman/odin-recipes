@@ -3,3 +3,8 @@
 h1 {
     color: darkgray;
 }
+
+#flammenkuchen_image {
+    height: auto;
+    width: 250;
+}
